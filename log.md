@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 2: August 20, 2022
 
+**Today's Progress**: Read lots of documentation on how to use styled-components with NextJS 12 paired with babel-plugin-styled-components. Implemented styled-components and built out a few components to test intergration.
+
+**Thoughts**: I am starting to comprehend technical writings more and more everday, I struggle with reading comrephension. Better to work on it everyday than allow the weakness to persist without any efforts to imporve. Looking forward to getting some time into building this blog out more in the coming days.
+
+**Link to work**: [Funcy Koder Blog](https://github.com/kcanamar/funcy_koder_blog)
 ### Day 1: August 19, 2022
  
 **Today's Progress**: Began building my personal blog site using NextJS & MDX
