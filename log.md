@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 4: August 22, 2022
+
+**Today's Progress**: Completed my first leetcode problem. 
+
+**Thoughts**: Leetcode is amazing, the detailed review of your code.
+I am going to be honest this problem stupped me for a good while, I appreciate the complexity of the questions and I know this is an easy one.
+I am eagar and excited to see what more challenges are ahead.
+
+**Link To Work**: [leetcode](https://www.github/kcanamar/code-every-day/blob/main/leetcode.js)
 ## Day 3: August 21, 2022
 
 **Today's Progress**: Began re-reading through MDN Javascript String Methods, and Math Methods. 
@@ -10,7 +19,7 @@ I do need to read much more vanilla Javascript to get these to sink even further
 Will he survive question took me longer then what I had hope for and was not the most elagent solution.
 I can honestly say that I am appriciative for challenging myself to spend more time doing coding challenges.
 
-**Link To Work**: [codewars](https://github.com/kcanamar/code-every-day/blob/main/codewars.js)
+**Link To Work**: [codewars](https://www.github.com/kcanamar/code-every-day/blob/main/codewars.js)
 ### Day 2: August 20, 2022
 
 **Today's Progress**: Read lots of documentation on how to use styled-components with NextJS 12 paired with babel-plugin-styled-components. Implemented styled-components and built out a few components to test intergration.
