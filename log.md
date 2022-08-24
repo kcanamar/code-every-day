@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 5: August 23, 2022
+
+**Today's Progress**: Completed free trial of edabit.com, completed first HackerRank challenge.
+
+**Thoughts**: Edabit.com was awesome for beginners and I was looking forward to turning up the difficulty however my free trial ended. I was hoping to not hit a pay barrier oh well. After reaching that point I decided to move on to HackerRank and start using this platform. I am very impressed with the layout of the questions being asked on hackerrank and how they display their unit test. I end the day with renewed vigor to start learning about how to implement my own unit tests using mocha & chai.
+
+**Links To Work**: [edabit](https://edabit.com/user/WNzmWC6bzha3io6XG), [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1)
 ## Day 4: August 22, 2022
 
 **Today's Progress**: Completed my first leetcode problem. 
