@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 6: August 24, 2022
+
+**Today's Progress**: Completed on problem on HackerRank, Leetcode, and Codewars.
+
+**Thoughts**: Juggling kids make for a limited amount of time to code, I am proud that I was able to complete 3 problems today, especially a few that really tested my comprehension as to what specifically they were asking. Still getting comfortable answering technical questions, and finding the correct syntax for certin JS Methods, thank you MDN for the amazing documentation. 
+
+**Links To Work**: [leetcode](https://leetcode.com/kcanamar/), [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1), [codewars](https://www.codewars.com/users/kcanamar/completed)
 ## Day 5: August 23, 2022
 
 **Today's Progress**: Completed free trial of edabit.com, completed first HackerRank challenge.
