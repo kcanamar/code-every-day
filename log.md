@@ -5,7 +5,7 @@
 **Today's Progress**: Completed on Leetcode challenge today.
 
 **Thoughts**: This was a real thinker for sure, the inital problem took me some time to understand what it was asking me to do. Solved it so that was a win, but then I went after the bonus part of the challenge to make the space complexity O(1) that was much harder. 
-I tired for a while and went to google for help to understand how to achieve this as I had no idea, I found that [IndecisionTree](https://leetcode.com/problems/build-array-from-permutation/discuss/1315926/Python-O(n)-Time-O(1)-Space-w-Full-Explanation) had a great solution in python explaining the process. I then looked up solutions on Euclidean Division JavaScript solutions to see how to apply why I had just learned. I then found a great solution from [RinatRezyapov](https://leetcode.com/problems/build-array-from-permutation/discuss/2294854/JavaScript-Space-O(1)-Euclidean-division). 
+I tired for a while and went to google for help to understand how to achieve this as I had no idea, I found that [IndecisionTree](https://leetcode.com/problems/build-array-from-permutation/discuss/1315926/Python-O(n)-Time-O(1)-Space-w-Full-Explanation) had a great solution in python explaining the process. I then looked up solutions on Euclidean Division JavaScript solutions to see how to apply what I had just learned. Leading me to a solution by [RinatRezyapov](https://leetcode.com/problems/build-array-from-permutation/discuss/2294854/JavaScript-Space-O(1)-Euclidean-division). 
 I must say that learning about euclidean division was facinating and [Elliot Nicholson](https://www.youtube.com/watch?v=7KLyGdPy7ns) has a great video sieres explaining this concept.
 
 **Link to Work**: [leetcode](https://leetcode.com/kcanamar/)
