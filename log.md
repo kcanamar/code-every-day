@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 7: August 25, 2022
+
+**Today's Progress**: Completed Time conversion problem on HackerRank
+
+**Thoughts**: This was sitted as easy however I found this on a true challenge in respects of having to think through this in a very particular way to meet the test requirements. I had one solution I hought would work, but only passed half of the tests. So instead of banging my head against the wall to make it work I decided to start fresh and create a new solution and low and behold I passed all tests. Learning how to walk away from one approach when faced with issues and to pivot to a solution that fulfills the required tests. 
+
+**Link to Work**: [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1)
+
 ## Day 6: August 24, 2022
 
 **Today's Progress**: Completed on problem on HackerRank, Leetcode, and Codewars.
