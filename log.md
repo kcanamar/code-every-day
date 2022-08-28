@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 9: August 27, 2022
+
+**Today's Progress**: Completed Counting Sheep on Codewars.
+
+**Thoughts**: This was a rather simple problem to solve. Currently planning our wedding in Vegas this weekend so time is a little limited. Got a chance to read more EloquentJS. Work in progress looking forward to tomorrow for a tougher challenge.
+
+**Link to Work**: [codewars](https://www.codewars.com/users/kcanamar/completed)
 ## Day 8: August 26, 2022
 
 **Today's Progress**: Completed on Leetcode challenge today.
