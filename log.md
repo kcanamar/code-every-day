@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 10: August 28, 2022
+
+**Today's Progress**: Completed Count By X on Codewars.
+
+**Thoughts**: Been a long weekend wedding planning just got home from being on the road all day and this was a big win for me. Staying on the grind is just as much commitment as sacrifice. Cheers to a big win today, meeting my commitments, tomorrow I look forward to some good time for coding.
+
+**Link to Work**: [codewars](https://www.codewars.com/users/kcanamar/completed)
+
 ## Day 9: August 27, 2022
 
 **Today's Progress**: Completed Counting Sheep on Codewars.
