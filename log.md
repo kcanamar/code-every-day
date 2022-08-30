@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 11: August 29, 2022
+
+**Today's Progress**: Completed Breaking the Records on HackerRank.
+
+**Thoughts**: I am feeling good right now, I have some good time tomorrow planned out to really get a nice day of learning in. Little by little gotta keep coding.
+
+**Link to Work**: [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1)
+
 ## Day 10: August 28, 2022
 
 **Today's Progress**: Completed Count By X on Codewars.
