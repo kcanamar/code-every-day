@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 12: August 30, 2022
+
+**Today's Progress**: Completed Camel Case 4 on HackerRank & Reverse Integer on Leetcode.
+
+**Thoughts**: These were for sure some brain teasers, The camelCase tripped me up for a while due to the logic. The Reverse Integer game me issues due to the constraints. I know I challenged myself but I am building comfidence in how to think programaticaly. 
+
+**Links to Work**: [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1), [leetcode](https://leetcode.com/kcanamar/)
+
 ## Day 11: August 29, 2022
 
 **Today's Progress**: Completed Breaking the Records on HackerRank.
