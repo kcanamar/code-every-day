@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 13: August 31, 2022
+
+**Today's Progress**: Successful imtergration of Material UI and NextJS, started building out the site layout.
+
+**Thoughts**: Wanted to learn how to best use Material UI with NextJS and practice building different site layouts. Looking forward to continuing to improve my UI/UX skills with MUI and NextJS.
+
+**Links to Work**: [Repo](https://github.com/kcanamar/materialui-nextjs)
 ## Day 12: August 30, 2022
 
 **Today's Progress**: Completed Camel Case 4 on HackerRank & Reverse Integer on Leetcode.
