@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+## Day 14: September 1, 2022
+
+**Today's Progress**: Created base for dashboard
+
+**Thoughts**: Worked through how to seperate the main parts of the drawer component, giving me access to the different section of the compnent to further customize the content.
+
+**Links to Work**: [Repo](https://github.com/kcanamar/materialui-nextjs)
 ## Day 13: August 31, 2022
 
 **Today's Progress**: Successful imtergration of Material UI and NextJS, started building out the site layout.
