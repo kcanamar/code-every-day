@@ -1,13 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 15: September 2, 2022
 
+**Today's Progress**: Completed Divisible Sum Pairs
+
+**Thoughts**: Starting to feel confident working through basic word problems. Spent most of the day reading more on javascript and how to think critically through word problems. I know that reading comprehension is on of my biggest areas of opportunity, so I am absorbing as much as I can.
+
+**Link to [Work](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/divisible-sum-pairs.js)**
 ## Day 14: September 1, 2022
 
 **Today's Progress**: Created base for dashboard
 
 **Thoughts**: Worked through how to seperate the main parts of the drawer component, giving me access to the different section of the compnent to further customize the content.
 
-**Links to Work**: [Repo](https://github.com/kcanamar/materialui-nextjs)
+**Link to Work**: [Repo](https://github.com/kcanamar/materialui-nextjs)
 ## Day 13: August 31, 2022
 
 **Today's Progress**: Successful imtergration of Material UI and NextJS, started building out the site layout.
