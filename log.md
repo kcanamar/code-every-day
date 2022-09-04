@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 16: September 3, 2022
+
+**Today's Progress**: Completed Sparse Arrays
+
+**Thoughts**: I spent about 2 hours reading up on data structures in JS today and was grateful for that as today I was able to used what I learned to solve this problem. I am honestly not sure if this is the best way to go about creating a solution to this challenge.
+
+**Link to [Work](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/sparse-arrays.js)**
 ## Day 15: September 2, 2022
 
 **Today's Progress**: Completed Divisible Sum Pairs
