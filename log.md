@@ -25,12 +25,12 @@
 
 **Today's Progress**: Created base for dashboard
 
-**Thoughts**: Worked through how to seperate the main parts of the drawer component, giving me access to the different section of the compnent to further customize the content.
+**Thoughts**: Worked through how to separate the main parts of the drawer component, giving me access to the different section of the component to further customize the content.
 
 **Link to Work**: [Repo](https://github.com/kcanamar/materialui-nextjs)
 ## Day 13: August 31, 2022
 
-**Today's Progress**: Successful imtergration of Material UI and NextJS, started building out the site layout.
+**Today's Progress**: Successful integration of Material UI and NextJS, started building out the site layout.
 
 **Thoughts**: Wanted to learn how to best use Material UI with NextJS and practice building different site layouts. Looking forward to continuing to improve my UI/UX skills with MUI and NextJS.
 
@@ -39,7 +39,7 @@
 
 **Today's Progress**: Completed Camel Case 4 on HackerRank & Reverse Integer on Leetcode.
 
-**Thoughts**: These were for sure some brain teasers, The camelCase tripped me up for a while due to the logic. The Reverse Integer game me issues due to the constraints. I know I challenged myself but I am building comfidence in how to think programaticaly. 
+**Thoughts**: These were for sure some brain teasers, The camelCase tripped me up for a while due to the logic. The Reverse Integer game me issues due to the constraints. I know I challenged myself but I am building confidence in how to think programaticaly. 
 
 **Links to Work**: [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1), [leetcode](https://leetcode.com/kcanamar/)
 
@@ -70,16 +70,16 @@
 
 **Today's Progress**: Completed on Leetcode challenge today.
 
-**Thoughts**: This was a real thinker for sure, the inital problem took me some time to understand what it was asking me to do. Solved it so that was a win, but then I went after the bonus part of the challenge to make the space complexity O(1) that was much harder. 
+**Thoughts**: This was a real thinker for sure, the initial problem took me some time to understand what it was asking me to do. Solved it so that was a win, but then I went after the bonus part of the challenge to make the space complexity O(1) that was much harder. 
 I tired for a while and went to google for help to understand how to achieve this as I had no idea, I found that [IndecisionTree](https://leetcode.com/problems/build-array-from-permutation/discuss/1315926/Python-O(n)-Time-O(1)-Space-w-Full-Explanation) had a great solution in python explaining the process. I then looked up solutions on Euclidean Division JavaScript solutions to see how to apply what I had just learned. Leading me to a solution by [RinatRezyapov](https://leetcode.com/problems/build-array-from-permutation/discuss/2294854/JavaScript-Space-O(1)-Euclidean-division). 
-I must say that learning about euclidean division was facinating and [Elliot Nicholson](https://www.youtube.com/watch?v=7KLyGdPy7ns) has a great video sieres explaining this concept.
+I must say that learning about euclidean division was fascinating and [Elliot Nicholson](https://www.youtube.com/watch?v=7KLyGdPy7ns) has a great video sieres explaining this concept.
 
 **Link to Work**: [leetcode](https://leetcode.com/kcanamar/)
 ## Day 7: August 25, 2022
 
 **Today's Progress**: Completed Time conversion problem on HackerRank
 
-**Thoughts**: This was sitted as easy however I found this on a true challenge in respects of having to think through this in a very particular way to meet the test requirements. I had one solution I hought would work, but only passed half of the tests. So instead of banging my head against the wall to make it work I decided to start fresh and create a new solution and low and behold I passed all tests. Learning how to walk away from one approach when faced with issues and to pivot to a solution that fulfills the required tests. 
+**Thoughts**: This was cited as easy however I found this on a true challenge in respects of having to think through this in a very particular way to meet the test requirements. I had one solution I thought would work, but only passed half of the tests. So instead of banging my head against the wall to make it work I decided to start fresh and create a new solution and low and behold I passed all tests. Learning how to walk away from one approach when faced with issues and to pivot to a solution that fulfills the required tests. 
 
 **Link to Work**: [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1)
 
@@ -102,8 +102,8 @@ I must say that learning about euclidean division was facinating and [Elliot Nic
 **Today's Progress**: Completed my first leetcode problem. 
 
 **Thoughts**: Leetcode is amazing, the detailed review of your code.
-I am going to be honest this problem stupped me for a good while, I appreciate the complexity of the questions and I know this is an easy one.
-I am eagar and excited to see what more challenges are ahead.
+I am going to be honest this problem stumped me for a good while, I appreciate the complexity of the questions and I know this is an easy one.
+I am eager and excited to see what more challenges are ahead.
 
 **Link To Work**: [leetcode](https://www.github/kcanamar/code-every-day/blob/main/leetcode.js)
 ## Day 3: August 21, 2022
@@ -114,14 +114,14 @@ Then decided to do a few codewars problems to flex my comprehension.
 **Thoughts**: I felt good overall, I did find myself to struggle with these 8kyu challenges. 
 I do need to read much more vanilla Javascript to get these to sink even further into my brain.
 Will he survive question took me longer then what I had hope for and was not the most elagent solution.
-I can honestly say that I am appriciative for challenging myself to spend more time doing coding challenges.
+I can honestly say that I am appreciative for challenging myself to spend more time doing coding challenges.
 
 **Link To Work**: [codewars](https://www.github.com/kcanamar/code-every-day/blob/main/codewars.js)
 ### Day 2: August 20, 2022
 
-**Today's Progress**: Read lots of documentation on how to use styled-components with NextJS 12 paired with babel-plugin-styled-components. Implemented styled-components and built out a few components to test intergration.
+**Today's Progress**: Read lots of documentation on how to use styled-components with NextJS 12 paired with babel-plugin-styled-components. Implemented styled-components and built out a few components to test integration.
 
-**Thoughts**: I am starting to comprehend technical writings more and more everday, I struggle with reading comrephension. Better to work on it everyday than allow the weakness to persist without any efforts to imporve. Looking forward to getting some time into building this blog out more in the coming days.
+**Thoughts**: I am starting to comprehend technical writings more and more everyday, I struggle with reading comprehension. Better to work on it everyday than allow the weakness to persist without any efforts to improve. Looking forward to getting some time into building this blog out more in the coming days.
 
 **Link to work**: [Funcy Koder Blog](https://github.com/kcanamar/funcy_koder_blog)
 ### Day 1: August 19, 2022
