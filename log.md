@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 17: September 4, 2022
+
+**Today's Progress**: Completed N-ary Tree Level Order Traversal
+
+**Thoughts**: Well after my success yesterday I decided to jump in the deep end and try a medium level leetcode problem focused on algorithms. From my reading yesterday along with a lot of reading on Breath First Search Algorithms and Binary Tree Structures. I was able to come up with a solution, though my brain feels like it is exploding. Computer Science is a hard, I will admit it, but I will learn this and I will be a better programmer because of it.
+
+**Link to [Work](https://github.com/kcanamar/code-every-day/blob/main/leetcode/n-ary-tree-level-order-traversal.js)**
 ## Day 16: September 3, 2022
 
 **Today's Progress**: Completed Sparse Arrays
