@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 18: September 5, 2022
+
+**Today's Progress**: Completed many problems on codewars.
+
+**Thoughts**: Spent the day confidence building on codewars. One day at a time, greatful for the progress I have been making. Always good to go back to the basics to keep the fundamentals strong. 
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/opposites-attract.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/reduce-but-grow.js), [problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/sentence-smash.js), [problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/sum-of-the-first-nth-term-of-series.js), [problem 5](https://github.com/kcanamar/code-every-day/blob/main/codewars/beginner-series-%232clock.js)
 ## Day 17: September 4, 2022
 
 **Today's Progress**: Completed N-ary Tree Level Order Traversal
