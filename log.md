@@ -39,7 +39,7 @@
 
 **Today's Progress**: Completed Camel Case 4 on HackerRank & Reverse Integer on Leetcode.
 
-**Thoughts**: These were for sure some brain teasers, The camelCase tripped me up for a while due to the logic. The Reverse Integer game me issues due to the constraints. I know I challenged myself but I am building confidence in how to think programaticaly. 
+**Thoughts**: These were for sure some brain teasers, The camelCase tripped me up for a while due to the logic. The Reverse Integer game me issues due to the constraints. I know I challenged myself but I am building confidence in how to think programmatically. 
 
 **Links to Work**: [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1), [leetcode](https://leetcode.com/kcanamar/)
 
@@ -72,7 +72,7 @@
 
 **Thoughts**: This was a real thinker for sure, the initial problem took me some time to understand what it was asking me to do. Solved it so that was a win, but then I went after the bonus part of the challenge to make the space complexity O(1) that was much harder. 
 I tired for a while and went to google for help to understand how to achieve this as I had no idea, I found that [IndecisionTree](https://leetcode.com/problems/build-array-from-permutation/discuss/1315926/Python-O(n)-Time-O(1)-Space-w-Full-Explanation) had a great solution in python explaining the process. I then looked up solutions on Euclidean Division JavaScript solutions to see how to apply what I had just learned. Leading me to a solution by [RinatRezyapov](https://leetcode.com/problems/build-array-from-permutation/discuss/2294854/JavaScript-Space-O(1)-Euclidean-division). 
-I must say that learning about euclidean division was fascinating and [Elliot Nicholson](https://www.youtube.com/watch?v=7KLyGdPy7ns) has a great video sieres explaining this concept.
+I must say that learning about euclidean division was fascinating and [Elliot Nicholson](https://www.youtube.com/watch?v=7KLyGdPy7ns) has a great video series explaining this concept.
 
 **Link to Work**: [leetcode](https://leetcode.com/kcanamar/)
 ## Day 7: August 25, 2022
@@ -87,7 +87,7 @@ I must say that learning about euclidean division was fascinating and [Elliot Ni
 
 **Today's Progress**: Completed on problem on HackerRank, Leetcode, and Codewars.
 
-**Thoughts**: Juggling kids make for a limited amount of time to code, I am proud that I was able to complete 3 problems today, especially a few that really tested my comprehension as to what specifically they were asking. Still getting comfortable answering technical questions, and finding the correct syntax for certin JS Methods, thank you MDN for the amazing documentation. 
+**Thoughts**: Juggling kids make for a limited amount of time to code, I am proud that I was able to complete 3 problems today, especially a few that really tested my comprehension as to what specifically they were asking. Still getting comfortable answering technical questions, and finding the correct syntax for certain JS Methods, thank you MDN for the amazing documentation. 
 
 **Links To Work**: [leetcode](https://leetcode.com/kcanamar/), [hackerrank](https://www.hackerrank.com/canamar_kyle?hr_r=1), [codewars](https://www.codewars.com/users/kcanamar/completed)
 ## Day 5: August 23, 2022
@@ -113,7 +113,7 @@ Then decided to do a few codewars problems to flex my comprehension.
 
 **Thoughts**: I felt good overall, I did find myself to struggle with these 8kyu challenges. 
 I do need to read much more vanilla Javascript to get these to sink even further into my brain.
-Will he survive question took me longer then what I had hope for and was not the most elagent solution.
+Will he survive question took me longer then what I had hope for and was not the most elegant solution.
 I can honestly say that I am appreciative for challenging myself to spend more time doing coding challenges.
 
 **Link To Work**: [codewars](https://www.github.com/kcanamar/code-every-day/blob/main/codewars.js)
