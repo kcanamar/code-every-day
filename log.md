@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 19: September 6, 2022
+
+**Today's Progress**: Completed problems on codewars.
+
+**Thoughts**: What a day, secured a lead to do some freelance work with a new client. More codewars today, feels like code wars challenges more of my fundementals which is what I would like to work on more. 
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/return-negative.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/basic-mathematical-operations.js), [problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/shortest-word.js), [problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/highest-and-lowest.js)
+
 ## Day 18: September 5, 2022
 
 **Today's Progress**: Completed many problems on codewars.
