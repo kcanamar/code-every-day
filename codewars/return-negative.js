@@ -20,4 +20,6 @@ function makeNegative(num) {
     if (num > 0) return -num
     if (num < 0) return num
     return 0
+    // better solution
+    // return num < 0 ? num : -num
   }
