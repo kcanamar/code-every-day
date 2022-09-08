@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 20: September 7, 2022
+
+**Today's Progress**: Completed get the middle character.
+
+**Thoughts**: Short day due to all three of my kids being back in school, back in high school, middle school, and elementary school. Love my kids, let the homework begin. Read up on more EloquentJS almost through, then time to reread and code along with the the book.
+
+**Link to Work** [problem ](https://github.com/kcanamar/code-every-day/blob/main/codewars/get-the-middle-character.js)
+
 ## Day 19: September 6, 2022
 
 **Today's Progress**: Completed problems on codewars.
