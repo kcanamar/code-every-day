@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 21: September 8, 2022
+
+**Today's Progress**: Completed problems on codewars.
+
+**Thoughts**: So today read through more EloquentJS and then completed a couple problems.  
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/string-repeat.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/odd-or-even.js)
+
 ## Day 20: September 7, 2022
 
 **Today's Progress**: Completed get the middle character.
