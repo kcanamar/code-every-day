@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 22: September 9, 2022
+
+**Today's Progress**: Completed problems on codewars.
+
+**Thoughts**: Busy day, I finished my onboarding with General Assembly, stoked to be apart of their team! Worked through a couple problems on codewars and started the  JavaScript Guide on MDN. 
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/convert-a-number-to-a-string.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/complementary-dna.js), [problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/school-paperwork.js), [problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/find-the-next-perfect-square.js)
+
 ## Day 21: September 8, 2022
 
 **Today's Progress**: Completed problems on codewars.
