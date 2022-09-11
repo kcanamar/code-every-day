@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 24: September 11, 2022
+
+**Today's Progress**: Completed a Mock Test and challenge on HackerRank.
+
+**Thoughts**: Took my first Mock Test on HackerRank, finished with about 3 min to spare and all tests passed. Due to HackerRanks privacy policies I will not be posting my test nor my answer to said test. I am starting to really appriciate the value of functions and prototype methods from vanilla javascript.
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/lonley-integer.js)
+
 ## Day 23: September 10, 2022
 
 **Today's Progress**: Completed a problem on codewars.
