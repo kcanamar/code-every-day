@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 23: September 10, 2022
+
+**Today's Progress**: Completed a problem on codewars.
+
+**Thoughts**: Worked with a lot of vanilla JavaScript methods to minipulate data today. Today was a productive day, I need to find a better way to share what I am learning.
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/ones-and-zeros.js)
+
 ## Day 22: September 9, 2022
 
 **Today's Progress**: Completed problems on codewars.
