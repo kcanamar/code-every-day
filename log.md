@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 25: September 12, 2022
+
+**Today's Progress**: Completed codewars challenges.
+
+**Thoughts**: Worked through some simple problems, and began reading documentation on a new language Kotlin. 
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/reversed-strings.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/convert-boolean.js), [problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/exes-and-ohs.js)
+
 ## Day 24: September 11, 2022
 
 **Today's Progress**: Completed a Mock Test and challenge on HackerRank.
