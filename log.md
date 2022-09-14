@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 26: September 13, 2022
+
+**Today's Progress**: Completed codewars challenge.
+
+**Thoughts**: Working through how to use the .reduce() method more efficently.
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/squaren-sum.js)
 ## Day 25: September 12, 2022
 
 **Today's Progress**: Completed codewars challenges.
