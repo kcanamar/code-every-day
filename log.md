@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 27: September 14, 2022
+
+**Today's Progress**: Completed HackerRank challenge, began Alex Merced tutorial on JavaScript/NodeJS & TypeScript/Deno.
+
+**Thoughts**: In an effort to be more comfortable with basic knowledge of JS & TS, I decided to begin working through one of Alex Merced's video series. This will not only aid in my ability to facilitate coding education better, but will further cement my own foundation. The hackerrank challenge was just that a challenge for sure, I tried a couple different approaches to this problem and was running into complications of implementing a for of loop when trying to iterate over the integer-array. Ended up pivoting to the traditional for loop and a bonus solve using the .map() method.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/grading-students.js), [Video Log](https://github.com/kcanamar/code-every-day/blob/main/tutorials/am-coder-2022-js-ts-node-deno)
 ## Day 26: September 13, 2022
 
 **Today's Progress**: Completed codewars challenge.
