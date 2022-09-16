@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 28: September 15, 2022
+
+**Today's Progress**: Completed HackerRank challenge.
+
+**Thoughts**: This was a challenge for me as working with bits is all new for me. I spent most of my time reading how to convert primatives to bit and back.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/flipping-bits.js)
+
 ## Day 27: September 14, 2022
 
 **Today's Progress**: Completed HackerRank challenge, began Alex Merced tutorial on JavaScript/NodeJS & TypeScript/Deno.
