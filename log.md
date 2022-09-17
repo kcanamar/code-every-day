@@ -1,10 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 29: September 16, 2022
+
+**Today's Progress**: Completed HackerRank challenge.
+
+**Thoughts**: Haven't worked with matrices since high school, this was fun getting to think through how to programatically find the diagonals. 
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/diagonal-differences.js)
 ## Day 28: September 15, 2022
 
 **Today's Progress**: Completed HackerRank challenge.
 
-**Thoughts**: This was a challenge for me as working with bits is all new for me. I spent most of my time reading how to convert primatives to bit and back.
+**Thoughts**: This was a challenge for me as working with bits is all new for me. I spent most of my time reading how to convert primitives to bit and back.
 
 **Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/flipping-bits.js)
 
@@ -19,7 +26,7 @@
 
 **Today's Progress**: Completed codewars challenge.
 
-**Thoughts**: Working through how to use the .reduce() method more efficently.
+**Thoughts**: Working through how to use the .reduce() method more efficiently.
 
 **Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/squaren-sum.js)
 ## Day 25: September 12, 2022
@@ -34,7 +41,7 @@
 
 **Today's Progress**: Completed a Mock Test and challenge on HackerRank.
 
-**Thoughts**: Took my first Mock Test on HackerRank, finished with about 3 min to spare and all tests passed. Due to HackerRanks privacy policies I will not be posting my test nor my answer to said test. I am starting to really appriciate the value of functions and prototype methods from vanilla javascript.
+**Thoughts**: Took my first Mock Test on HackerRank, finished with about 3 min to spare and all tests passed. Due to HackerRanks privacy policies I will not be posting my test nor my answer to said test. I am starting to really appreciate the value of functions and prototype methods from vanilla javascript.
 
 **Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/lonley-integer.js)
 
@@ -42,7 +49,7 @@
 
 **Today's Progress**: Completed a problem on codewars.
 
-**Thoughts**: Worked with a lot of vanilla JavaScript methods to minipulate data today. Today was a productive day, I need to find a better way to share what I am learning.
+**Thoughts**: Worked with a lot of vanilla JavaScript methods to manipulate data today. Today was a productive day, I need to find a better way to share what I am learning.
 
 **Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/ones-and-zeros.js)
 
@@ -74,7 +81,7 @@
 
 **Today's Progress**: Completed problems on codewars.
 
-**Thoughts**: What a day, secured a lead to do some freelance work with a new client. More codewars today, feels like code wars challenges more of my fundementals which is what I would like to work on more. 
+**Thoughts**: What a day, secured a lead to do some freelance work with a new client. More codewars today, feels like code wars challenges more of my fundamentals which is what I would like to work on more. 
 
 **Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/return-negative.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/basic-mathematical-operations.js), [problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/shortest-word.js), [problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/highest-and-lowest.js)
 
@@ -82,7 +89,7 @@
 
 **Today's Progress**: Completed many problems on codewars.
 
-**Thoughts**: Spent the day confidence building on codewars. One day at a time, greatful for the progress I have been making. Always good to go back to the basics to keep the fundamentals strong. 
+**Thoughts**: Spent the day confidence building on codewars. One day at a time, grateful for the progress I have been making. Always good to go back to the basics to keep the fundamentals strong. 
 
 **Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/opposites-attract.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/reduce-but-grow.js), [problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/sentence-smash.js), [problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/sum-of-the-first-nth-term-of-series.js), [problem 5](https://github.com/kcanamar/code-every-day/blob/main/codewars/beginner-series-%232clock.js)
 ## Day 17: September 4, 2022
