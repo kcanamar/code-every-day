@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 30: September 18, 2022
+
+**Today's Progress**: HackerRank Challenge, Counting Sort 1
+
+**Thoughts**: Still working to be able to read the question an decern what needs to be answered, this challenge had me chasing my tail for a little while before I realized it was asking for how many times each number occured in the provided array. Then returning the results array with indicies incrememnting based on the input array values.
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/counting-sort-1.js)
+
+## Day 29: September 17, 2022
+
+**Today's Progress**: Worked on freelance project.
+
+**Thoughts**: Worked on a freelance website for a new client.
+
+**Link to Work** [Repo](https://github.com/kcanamar/rare-odd-records/tree/main)
+
 ## Day 29: September 16, 2022
 
 **Today's Progress**: Completed HackerRank challenge.
