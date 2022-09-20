@@ -4,7 +4,7 @@
 
 **Today's Progress**: HackerRank Challenge, Counting Valleys
 
-**Thoughts**: 
+**Thoughts**: This challenge was word problem that had me hung up on the steps part. I was chasing my tail thinking that I needed to do more with steps, untill I realized that the path was made up of all of the steps. Once I made that connection the algorithm fell into place. 
 
 **Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/counting-valleys.js)
 
