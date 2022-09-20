@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 31: September 19, 2022
+
+**Today's Progress**: HackerRank Challenge, Counting Valleys
+
+**Thoughts**: 
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/counting-valleys.js)
+
 ## Day 30: September 18, 2022
 
 **Today's Progress**: HackerRank Challenge, Counting Sort 1
