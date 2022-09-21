@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 32: September 20, 2022
+
+**Today's Progress**: HackerRank Challenge, Pangrams
+
+**Thoughts**: Regex for the win, I have been learning some regular expressions lately and trying to really harness the power of them. What a great problem for putting this new skill to work. Still not the most comfortable with them but more practice is in order.
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/pangrams.js)
+
 ## Day 31: September 19, 2022
 
 **Today's Progress**: HackerRank Challenge, Counting Valleys
