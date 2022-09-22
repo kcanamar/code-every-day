@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 33: September 21, 2022
+
+**Today's Progress**: HackerRank Challenge, Mars Exploration
+
+**Thoughts**: This was a fun challenge. 
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/mars-exploration.js)
+
 ## Day 32: September 20, 2022
 
 **Today's Progress**: HackerRank Challenge, Pangrams
