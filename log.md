@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 34: September 22, 2022
+
+**Today's Progress**: HackerRank Challenge, Permutating Two Arrays
+
+**Thoughts**: This was a mind melter at first, until I figured maybe I should sort the arrays. I ended up writing a lot of this out on paper, and what stood out was that in order to pass the conditional I would need to make sure that the lowest value in array A and the greatest value in array B met the conditional.
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/permutating-two-arrays.js)
+
 ## Day 33: September 21, 2022
 
 **Today's Progress**: HackerRank Challenge, Mars Exploration
