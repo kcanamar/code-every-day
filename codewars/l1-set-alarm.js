@@ -15,5 +15,5 @@ setAlarm(true, false) -> true
 //  Solution
 ////////////////////////
 function setAlarm(employed, vacation){
-    return employed && !vacation ? true : false
+    return employed && !vacation 
   }
