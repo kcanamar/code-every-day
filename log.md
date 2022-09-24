@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 36: September 24, 2022
+
+**Today's Progress**: Codewars Challenges, Sum without Highest and Lowest Numbers
+
+**Thoughts**: Apparently my git commits were not beign tracked the past few days due to the fact that I got a new machine and forgot to include my git signature. Oh well, this challenge was awesome a nice work on my lunch break.
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/sum-no-high-low.js)
 ## Day 35: September 23, 2022
 
 **Today's Progress**: Codewars Challenges, Set-Alarm && Removing Element
