@@ -2,7 +2,7 @@
 
 ## Day 35: September 23, 2022
 
-**Today's Progress**: Codewars Challenges, Set-Alarm && Removing Elements
+**Today's Progress**: Codewars Challenges, Set-Alarm && Removing Element
 
 **Thoughts**: Quick work out today, keeping the mind fresh with different styles of challenges.
 
