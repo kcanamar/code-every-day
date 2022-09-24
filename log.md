@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 35: September 23, 2022
+
+**Today's Progress**: Codewars Challenges, Set-Alarm && Removing Elements
+
+**Thoughts**: Quick work out today, keeping the mind fresh with different styles of challenges.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/l1-set-alarm.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/removing-elements.js)
+
 ## Day 34: September 22, 2022
 
 **Today's Progress**: HackerRank Challenge, Permutating Two Arrays
