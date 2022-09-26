@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 37: September 26, 2022
+
+**Today's Progress**: Codewars Challenges
+
+**Thoughts**: Took a mental health day yesterday, life is unpredicatable and kids only add more complexitites. I am back at it today with a couple simple challenges to build some morale in myself.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/lost-without-a-map.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/logic-drills-traffic-lights.js),[problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/string-ends-with.js),
+
 ## Day 36: September 24, 2022
 
 **Today's Progress**: Codewars Challenges, Sum without Highest and Lowest Numbers
