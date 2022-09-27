@@ -31,3 +31,7 @@ function openOrSenior(data){
     }
     return output
   }
+// Map solution with array destructing
+function openOrSenior(data){
+    return data.map(([age, handicap]) => (age > 54 && handicap > 7) ? "Senior" : "Open")
+}
