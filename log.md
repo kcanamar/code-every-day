@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 38: September 27, 2022
+
+**Today's Progress**: Codewars Challenges
+
+**Thoughts**: Early mental work out before diving into some freelance work, building a react application with sanity.io build will be public on my github if you want to follow along with the build.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/catergorize-new-member.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/dan-to-rna-conversion.js)
 ## Day 37: September 26, 2022
 
 **Today's Progress**: Codewars Challenges
