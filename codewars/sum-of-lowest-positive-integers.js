@@ -14,6 +14,6 @@ For example, when an array is passed like [19, 5, 42, 2, 77], the output should 
 // Solutions
 /////////////////////
 function sumTwoSmallestNumbers(numbers) {  
-    let nums = numbers.sort((a,b) => a - b)
-    return nums[0] + nums[1]
+    numbers.sort((a,b) => a - b)
+    return numbers[0] + numbers[1]
   }
