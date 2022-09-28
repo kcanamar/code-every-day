@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 39: September 28, 2022
+
+**Today's Progress**: Codewars Challenges
+
+**Thoughts**: Quick challenge today, got some styling work done on my freelance project.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/sum-of-lowest-positive-integers.js)
+
 ## Day 38: September 27, 2022
 
 **Today's Progress**: Codewars Challenges
