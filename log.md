@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 40: September 29, 2022
+
+**Today's Progress**: Codewars Challenges
+
+**Thoughts**: Started my day with some reading on memoization, hash tables and .reduce(), .filter(), .map() methods. I stumbled on a post on LinkedIn from a senior developer recommending spending time with these methods as they can be used in many different way that I am still not sure if I fully grasp. Delete occurances was a heafty challange for myself, I had to really rely on my sudo code my way through this one. 
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/convert-a-boolean-to-a-string.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/delete-occurances.js),
+
 ## Day 39: September 28, 2022
 
 **Today's Progress**: Codewars Challenges
