@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 41: September 30, 2022
+
+**Today's Progress**: Codewars Challenge
+
+**Thoughts**: This was a great challenge today, I went for gold and decided that one solution as not going to be enough for me. My first attempt was a regex solve, the second was throwing me for  aloop for a while as vscode's syntax highlighting was making me second guess what I was writing. 
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/count-the-smiley-faces.js)
+
 ## Day 40: September 29, 2022
 
 **Today's Progress**: Codewars Challenges
