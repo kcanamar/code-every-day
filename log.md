@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 42: October 3, 2022
+
+**Today's Progress**: HackerRank Challenge
+
+**Thoughts**: I found this question to be a nice challenge where I had to think through how to craete a section and then reduce its contents. 
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/subarray-division-2.js)
+
 ## Day 41: September 30, 2022
 
 **Today's Progress**: Codewars Challenge
