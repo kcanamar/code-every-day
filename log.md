@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 43: October 4, 2022
+
+**Today's Progress**: HackerRank Challenge
+
+**Thoughts**: Wow, I struggled with this one. I realize that my roadblock was trying to do to much in one place, when I made the shift to haveing to spereate loops I was able to concpetualize the sorting loop then once sorted now count the pairs. I am learning how to not over complicate the challenge at hand, and to break each part down to what can be solved. 
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/hackerrank/sales-by-match.js)
+
 ## Day 42: October 3, 2022
 
 **Today's Progress**: HackerRank Challenge
