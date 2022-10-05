@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 44: October 5, 2022
+
+**Today's Progress**: Codewars Challenges
+
+**Thoughts**: Decided to take some time today to play around with more challenges on codewars. 
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/even-or-odd.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/sum-array.js),[problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/detect-pangram.js),[problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/expressions-matter.js),
+
 ## Day 43: October 4, 2022
 
 **Today's Progress**: HackerRank Challenge
