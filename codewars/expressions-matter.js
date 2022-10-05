@@ -44,3 +44,11 @@ function expressionMatter(a, b, c) {
 console.log(expressionMatter(2,3,5)) // 30
 console.log(expressionMatter(1,2,3)) // 9
 console.log(expressionMatter(14,3,7)) // 294
+
+// Alterantive solution
+function expressionsMatter(a,b,c){
+    return Math.max(a+b+c, a*b*c, (a+b)*c, a*(b+c))
+}
+
+console.log(expressionsMatter(1,2,3))
+console.log(expressionsMatter(2,3,5))
