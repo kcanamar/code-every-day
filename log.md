@@ -1,12 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 45: October 6, 2022
+
+**Today's Progress**: Codewars Challenge
+
+**Thoughts**: Played through, [flexbox froggy](https://flexboxfroggy.com/), [css grid garden](https://cssgridgarden.com/), and [css diner](https://flukeout.github.io/), after those I solved a codewars challenge a few different ways to challenge myself. 
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/number-of-people-in-the-bus.js)
 ## Day 44: October 5, 2022
 
 **Today's Progress**: Codewars Challenges
 
 **Thoughts**: Decided to take some time today to play around with more challenges on codewars. 
 
-**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/even-or-odd.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/sum-array.js),[problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/detect-pangram.js),[problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/expressions-matter.js),
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/even-or-odd.js), [problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/sum-array.js),[problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/detect-pangram.js),[problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/expressions-matter.js)
 
 ## Day 43: October 4, 2022
 
