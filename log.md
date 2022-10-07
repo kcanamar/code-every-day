@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 46: October 7, 2022
+
+**Today's Progress**: Codewars Challenge
+
+**Thoughts**: Played through a second time, [flexbox froggy](https://flexboxfroggy.com/), [css grid garden](https://cssgridgarden.com/), and [css diner](https://flukeout.github.io/), after those I solved a quick codewars challenge. Now off to be super dad this friday!
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/youre-a-square.js)
+
 ## Day 45: October 6, 2022
 
 **Today's Progress**: Codewars Challenge
