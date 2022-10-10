@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 47: October 9, 2022
+
+**Today's Progress**: Codewars Challenge
+
+**Thoughts**: Worked through a reverse words problem, and continued working through Eloquent Javascript.
+
+**Link to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/reverse-words.js)
+
 ## Day 46: October 7, 2022
 
 **Today's Progress**: Codewars Challenge
