@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 2: January 29, 2023
+
+**Today's Progress**: Began rebuilding Portfolio
+
+**Thoughts**: Well the saying goes "use it or loose it." I did not loose it but I sure did struggle getting my frontend to play nice with my api. I leanred today that you cannot call getStaticProps from inside of a component rather it must be down on the page and passed to the component as props. If anyone has any experience that would contridicte my findings please feel free to share them as this was a big chunck of time. Feeling really good otherwise about how far I got on this project, excited to see how it turns out in the coming days.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio)
+
 ## Day 1: January 28, 2023
 
 **Today's Progress**: Codewars Challenges

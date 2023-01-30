@@ -1,0 +1,28 @@
+h1 {
+    font-size: 5rem;
+    color: saddlebrown;
+    text-decoration: green underline;
+    text-align: center;
+}
+
+#add-catergory, #add-todo, main {
+    width: 60%;
+    margin: 4rem auto;
+    padding: 2rem;
+    border: 2px solid saddlebrown;
+    text-align: center;
+}
+
+.category {
+    width: 90%;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 2px dotted green;
+}
+
+.todo {
+    width: 90%;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 2px dashed blue;
+}
