@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 3: January 30, 2023
+
+**Today's Progress**: LeetCode Problem
+
+**Thoughts**: So today had a technical interview, so spent most of my day preping for it by reading documentation. However I did get to a leetcode problem that challenged me to implement the in-place algortihm. Having never done that before was a tall task but after words felt really good about what I learned and how I can build upon that algorithm.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/remove_duplicates.js)
+
 ## Day 2: January 29, 2023
 
 **Today's Progress**: Began rebuilding Portfolio
