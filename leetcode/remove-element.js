@@ -44,11 +44,28 @@
 // Solution
 /////////////////////
 var removeElement = function(nums, val) {
-    let count = 0;
-    for (let i = 0; i< nums.length; i++) {
-        if (nums[i] !== val) {
-            nums[count++] = nums[i];
+    // let count = 0;
+    // for (let i = 0; i< nums.length; i++) {
+    //     if (nums[i] !== val) {
+    //         nums[count++] = nums[i];
+    //     }
+    // }
+    // return count;
+    
+    // create a pointer for next element
+    // This pointer will be the returned value 
+    let k = 0;
+    // iterate over the array of nums
+    for (let i = 0, l = nums.length; i < l; i++){
+        // condtional to check if current index value mathces target val
+        if(nums[i] !== val) {
+            // when conditonal is true move the current index forward
+            nums[k] = nums[i];
+            // increment our pointer to memo the current amount of indexes not mathcing the target value
+            k++
         }
     }
-    return count;
+
+    // return pointer
+    return k
 };
