@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 4: January 31, 2023
+
+**Today's Progress**: Portfolio Api
+
+**Thoughts**: Continued working on my portfolio API, I am building this to constantly be updating my portfolio with new projects and content in a centuralized location. I refactored the codebase to reflect MVC design, spreading the route logic across two different locations, the routes and the controllers. This was a great way for me to be able to put into practice what I came to love about building API's. Looking forward to add authentication to this API so that way no one but myself will be able to interact with the data outside of GET requests. 
+
+**Links to Work** [Repo](https://github.com/kcanamar/portfolio-API)
 ## Day 3: January 30, 2023
 
 **Today's Progress**: LeetCode Problem
