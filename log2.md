@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 5: Feburary 1, 2023
+
+**Today's Progress**: Leetcode
+
+**Thoughts**: Strapped up my boots today to dig into practicing some algorithms on leetcode. Was able to get some practice with two-pointers and merge interval, feeling confident with what I was able to complete and looking forward to getting auth setup on my portfolio api tomorrow.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/squares-of-sorted-array.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/merge-intervals.js)
+
 ## Day 4: January 31, 2023
 
 **Today's Progress**: Portfolio Api
