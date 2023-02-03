@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 7: Feburary 3, 2023
+
+**Today's Progress**: Jsonwebtoken Authentication with Express.js
+
+**Thoughts**:  So today I revisited how to implement authentication using jsonwebtokens in an Express server. Battled through a few typos and a couple trips to the docs, in the end was able to grokk the fundementals to achieve the desired end result. After taking myself thorugh this process in a practice environment I decided to implement this into my portfolio-api to protect my POST, PUT, and DELETE routes. Feeling good about how I was able to implement this so far, next step is to understand how to work through authentication with multiple realtionships.
+
+**Links to Work** [Repo](https://github.com/kcanamar/portfolio-API),[Repo](https://github.com/kcanamar/passion-backend)
+
 ## Day 6: Feburary 2, 2023
 
 **Today's Progress**: Django Basic Todo App
