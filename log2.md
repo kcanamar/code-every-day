@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 6: Feburary 2, 2023
+
+**Today's Progress**: Django Basic Todo App
+
+**Thoughts**: Today I decided to brush up on my Django and create a simple todo app. Nothing fancy here just making sure that all the gears are working properly and that I can still remember how to write python code. 
+
+**Links to Work** [Repo](https://github.com/kcanamar/basic-django-todo)
+
 ## Day 5: Feburary 1, 2023
 
 **Today's Progress**: Leetcode
