@@ -36,11 +36,17 @@ var data = [
     // obj {route, time, cost}
     // in the returned array the new obj {route, totalTime, totalCost}
 
-    // refactor to do this prgramticly 
+    // create a variable for all routes removing duplicates
+    const routes = [...new Set(data.map((element) => element.route))]
+    // create results array from the routes array filtering the data array based on route number
+    const results = routes.map((route) => {
+      let filteredData = data.filter((element) => element.route === route)
+      return combinedData = helper(filteredData)
+    })
     // use map as it returns and array 
-    let route100 = data.filter((element) => element.route === 100)
-    let route200 = data.filter((element) => element.route === 200)
-    let route300 = data.filter((element) => element.route === 300)
+    // let route100 = 
+    // let route200 = data.filter((element) => element.route === 200)
+    // let route300 = data.filter((element) => element.route === 300)
     // console.log(route100)  
     // helper function to sum time and cost
     function helper(arr2) {
@@ -60,11 +66,11 @@ var data = [
     }
   
     // new resultArr made up of obj
-    let result = [helper(route100), helper(route200), helper(route300)]
+    // let result = [helper(route100), helper(route200), helper(route300)]
   
-    return result
+    return results
   }
-   
+  
   let expected = [
     { route: 100, totalTime: 5, totalCost: 9},
     { route: 200, totalTime: 4, totalCost: 11},
