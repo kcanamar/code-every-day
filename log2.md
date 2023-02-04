@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 8: Feburary 4, 2023
+
+**Today's Progress**: Leetcode, FastAPI && Flask basics
+
+**Thoughts**: Today learned how to start both a FastAPI and Flask server, just setup basic listening servers still need to hook up a SQL db to both and define the CRUD routes. Also practiced on leetcode a problem that challenged me to implement a look a like to the sliding window approach.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/max-average-subarr-i.js),[Repo](https://github.com/kcanamar/flask_api),[Repo](https://github.com/kcanamar/fast_api)
 ## Day 7: Feburary 3, 2023
 
 **Today's Progress**: Jsonwebtoken Authentication with Express.js
