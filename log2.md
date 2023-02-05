@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 9: Feburary 5, 2023
+
+**Today's Progress**: Portfolio skeleton
+
+**Thoughts**: Decided to get back to work on my portfolio and add in a blog feature for my future content. I am going to be building out my Portfolio over the next several weeks and will be adding features in one by one. Then I will look to style it more, I knwo I should be styling more but just haven't had the motivation yet.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio)
 ## Day 8: Feburary 4, 2023
 
 **Today's Progress**: Leetcode, FastAPI && Flask basics
