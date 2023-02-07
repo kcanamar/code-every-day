@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+
+## Day 11: Feburary 7, 2023
+
+**Today's Progress**: Portfolio Styling
+
+**Thoughts**: Got more tackled today stylin, landing page is coming together, tomorrow looking to get all of my media queries put together for non desktop screens. Decided to remove the font-awesome icons and go back to using react-icons.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio)
 ## Day 10: Feburary 6, 2023
 
 **Today's Progress**: Portfolio Styling
