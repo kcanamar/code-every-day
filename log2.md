@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+## Day 10: Feburary 6, 2023
+
+**Today's Progress**: Portfolio Styling
+
+**Thoughts**: Spent my day styling with CSS modules in Next.js. Met some unexpected work arounds that are presented by Next, one being the way you import and use google fonts, another being how you use font-awesome icons. I did met an error in my deployment that I will have to triage in tomorrow, but over all feel really good about what I was able to accomplish today.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio)
 
 ## Day 9: Feburary 5, 2023
 
