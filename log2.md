@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 12: Feburary 8, 2023
+
+**Today's Progress**: Portfolio Styling
+
+**Thoughts**: Was able to start media quieries, shorter session and forgot to log due to being under the weather. Looking forward to getting more done today.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio)
+
 ## Day 11: Feburary 7, 2023
 
 **Today's Progress**: Portfolio Styling
