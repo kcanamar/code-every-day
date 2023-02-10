@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 13: Feburary 9, 2023
+
+**Today's Progress**: Built mobile responsive navbar
+
+**Thoughts**: Worked off of a Kevin Powell video building a mobile responsive nav bar. After hours of reading on css properties and various logical properties, I am starting to get a better grasp on frontend CSS. I recognized that it was one of my weaknesses that I want to improve this quarter and building from scratch with vanilla helps me build a better foundation when I go to adapt and implement these tactics within React.
+
+**Links to Work** [Repo](https://github.com/kcanamar/mobile-nav)
+
 ## Day 12: Feburary 8, 2023
 
 **Today's Progress**: Portfolio Styling
