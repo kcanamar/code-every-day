@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 14: Feburary 10, 2023
+
+**Today's Progress**: Responsive Styling
+
+**Thoughts**: Spent most of the day restyling my portfolio, armed with a responsive first approach to styling. I was able to adjust all of my stylings to be responsive for all screens. Some new tools in CSS I got to use today were clamp() and hsl().
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio)
+
 ## Day 13: Feburary 9, 2023
 
 **Today's Progress**: Built mobile responsive navbar
