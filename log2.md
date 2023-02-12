@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 15: Feburary 11, 2023
+
+**Today's Progress**: Server Side Props
+
+**Thoughts**: Today was a big day for reading documentation, changed over from static props to server side props for a couple pages on my portfolio. I like the results, however had a massive amount of debugging and deployment issues, come to later realize it was because I was tracking the preview deployment in vercel and the production deployemnt to troubleshoot.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio)
 ## Day 14: Feburary 10, 2023
 
 **Today's Progress**: Responsive Styling
