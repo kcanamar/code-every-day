@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 16: Feburary 12, 2023
+
+**Today's Progress**: About Page Base
+
+**Thoughts**: Got the base structure of my about page layed out. Frontend development has always been a challenge for me and a skill I need to keep very sharp, currently feeling really confident in how I have been able to keep my content layout shifts to a minimum. On the horizon, responsive images, content updates.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio/tree/dev)
 ## Day 15: Feburary 11, 2023
 
 **Today's Progress**: Server Side Props
