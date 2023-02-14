@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 17: Feburary 13, 2023
+
+**Today's Progress**: About Page Styling
+
+**Thoughts**: Started styling the over all layout of about page. Along with began building out what technologies are going to look like on my portfolio, thinking I am going to make them into their own Document in my db so that way I can map over them reducing the need to hard code. Learned how to use cloudinary-next to support my photos for optimizing, sizing, and responsive options.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio/tree/style)
 ## Day 16: Feburary 12, 2023
 
 **Today's Progress**: About Page Base
