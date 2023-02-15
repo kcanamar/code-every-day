@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 18: Feburary 14, 2023
+
+**Today's Progress**: Contact Page
+
+**Thoughts**: Wrapped up style on the about page, proud of a work around I figured out generating the icons. Went on to build out the Contact page and attach a copy of my resume to the resume link. Tomorrow I will be building out the projects page, looking forward to building this.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio/tree/style)
 ## Day 17: Feburary 13, 2023
 
 **Today's Progress**: About Page Styling
