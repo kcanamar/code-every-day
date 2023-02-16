@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 20: Feburary 16, 2023
+
+**Today's Progress**: Vue.js
+
+**Thoughts**: I have decided to build out my Blog site using Vue.js, first step on the list is to get familiar with vue and build a todo app. After that I will look to connect to a GraphQL database, and style with tailwind. This will be a couple days worth of learning and building.
+
+**Links to Work** [Repo](https://github.com/kcanamar/vue_todo_example)
+
 ## Day 19: Feburary 15, 2023
 
 **Today's Progress**: Portfolio
