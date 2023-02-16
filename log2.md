@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 19: Feburary 15, 2023
+
+**Today's Progress**: Portfolio
+
+**Thoughts**: Completed the projects page of my portfolio, needed to restructure my app as the deployed site was vastly different than my deployment. Quick fix and a great site now on to building out the blog, although I am thinking of building the blog with some new technologies deployed seperate, stay tuned.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio/)
+
 ## Day 18: Feburary 14, 2023
 
 **Today's Progress**: Contact Page
