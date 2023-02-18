@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 21: Feburary 17, 2023
+
+**Today's Progress**: Vue.js
+
+**Thoughts**: Today I learned so much Vue, I think my biggest take away would be how intuitive the developer expereience is. I like how you can visually see how your page is going to be built before it is even produced. Big bonus their documentation is great. I ran through the intro tutorial so far tomorrow I will dig into some more meat and start building something more pratical, I feel like a blog site will be a nice first step.
+
+**Links to Work** [Repo](https://github.com/kcanamar/vue_todo_example)
 ## Day 20: Feburary 16, 2023
 
 **Today's Progress**: Vue.js
