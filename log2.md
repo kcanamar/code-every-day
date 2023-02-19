@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 22: Feburary 18, 2023
+
+**Today's Progress**: Vue.js & Magic.link
+
+**Thoughts**: Today I learned how to wire up a vue application with my favorite auth/payment SDK Magic.link. So many new things to play with in the comming days, I have been really impressed with how much of the vue ecosystem is maintained by vue, not third party sources. Plus their documentation is top notch A+ for helping me out when I wasn't comprehending multi-word-component-names, gotta shake that bad habit from React.
+
+**Links to Work** [Repo](https://github.com/kcanamar/vue-magic-example)
+
 ## Day 21: Feburary 17, 2023
 
 **Today's Progress**: Vue.js
