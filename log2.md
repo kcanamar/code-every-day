@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 23: Feburary 19, 2023
+
+**Today's Progress**: Go (Golang) Beginnings
+
+**Thoughts**: I decided today to embark on a journey I have been eyeing for some time, Go. I have been wanting to dive deeper into this language and learn how to build apis with Gin. So today I decided to setup my machine to learn the basics, so much to cover and only scratched the surface but more to come shortly. I did not forget about Vue, in fact I am building this backend in Go to pair with my Vue frontend.
+
+**Links to Work** [Repo 1](https://github.com/kcanamar/go-example-hello), [Repo 2](https://github.com/kcanamar/go-example-greeting)
+
 ## Day 22: Feburary 18, 2023
 
 **Today's Progress**: Vue.js & Magic.link
