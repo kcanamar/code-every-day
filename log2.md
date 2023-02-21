@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 24: Feburary 20, 2023
+
+**Today's Progress**: More Go
+
+**Thoughts**: I was caught up on a peculiar bug today while working with Go, I was unable to run the executable go module after installing it through the cli. I had the correct GOPATH, GOBIN in my `go env` but for whatever reason when I ran the command `export PATH=$PATH:/location/go/bin/` then try to active the related bin application I would receive a `zsh: command not found:` or `zsh: access denied:`. I also made sure that my `.zshrc` was setup with the various GO statements, but even with everything I was finding on stackoverflow I wasn't able to solve this issue. What I ended up having to do was include the `export PATH=$PATH:/location/go/bin/` in my `.zprofile`, then I wen through the motions one more time of `go build`, check my `go env`, `go install` then I created a new terminal and ran the executable from a fresh terminal. Much to my enjoyment the program ran as intended, In lieu of this hiccup I wasn't able to make as much progress as I would have liked in building out my first api using Go. Still in good spirits as tomorrow is a new day and I am looking forward more go!
+
+**Links to Work** [Repo 1](https://github.com/kcanamar/go-workspaces)
 ## Day 23: Feburary 19, 2023
 
 **Today's Progress**: Go (Golang) Beginnings
