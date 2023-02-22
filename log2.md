@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 25: Feburary 21, 2023
+
+**Today's Progress**: Leetcode
+
+**Thoughts**: Had a busy day today, wasn't able to code a whole lot with the kids being sick, so to make sure I was still keeping on I decided to do a leetcode problem with binary tress. This on took me a little while to fully comprehend what and how I was going to do this, I utlimately came to the conclusion that I wanted to create a win condition of true by subtracting each node from the sum argument.
+
+**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/path-sum.js)
 ## Day 24: Feburary 20, 2023
 
 **Today's Progress**: More Go
