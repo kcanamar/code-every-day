@@ -5,7 +5,7 @@
 
 **Thoughts**: Today was the day I decided to begin learning how to build an API using Go, Gin, GORM, and bit.io. SO much learning on how to properly configure, errors be thy guide. I have a listening server, a home route, and successful database connection. Tomorrow I will create the models and begin work on CRUD!
 
-**Links to Work** [Repo](https://github.com/kcanamar/go-crud-example)
+**Links to Work** [Repo](https://github.com/kcanamar/go-crud-example),[problem 1](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/group-anagrams.js)
 ## Day 25: Feburary 21, 2023
 
 **Today's Progress**: Leetcode
