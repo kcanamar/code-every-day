@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
+## Day 26: Feburary 22, 2023
 
+**Today's Progress**: Go API build part 1
+
+**Thoughts**: Today was the day I decided to begin learning how to build an API using Go, Gin, GORM, and bit.io. SO much learning on how to properly configure, errors be thy guide. I have a listening server, a home route, and successful database connection. Tomorrow I will create the models and begin work on CRUD!
+
+**Links to Work** [Repo](https://github.com/kcanamar/go-crud-example)
 ## Day 25: Feburary 21, 2023
 
 **Today's Progress**: Leetcode
