@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+
+## Day 27: Feburary 23, 2023
+
+**Today's Progress**: Go API build part Bug
+
+**Thoughts**: So I was able to connect to bit.io, as my database and migrate my models. However when I attempted to post data to my database I run into a `runtime error: invalid memory address or nil pointer dereference` I am not sure why, I have been looking all over the internet up and down trying to understand why this is happening. So I decided to let the issue breath and start my day tomorrow with a fresh post on stackoverflow in hops that I will be able to solve this issue. 
+
+**Links to Work** [Repo](https://github.com/kcanamar/go-crud-example)
 ## Day 26: Feburary 22, 2023
 
 **Today's Progress**: Go API build part 1
