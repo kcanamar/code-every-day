@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 28: Feburary 24, 2023
+
+**Today's Progress**: Go/Gin localAPI, Go Gin GORM bit.io full CRUD API
+
+**Thoughts**: I needed a confidence boost after yesterday's bug, so I decided to start my day off buy making a simple CRUD API not persisting in a database. After completing this I then moved on to hunt the bug from yesterday, turns out it was not much of a bug but that I had forgotten to include a database connection in `main.go`'s init func, *Facepalm* glad I slept on it because that gave me a fresh start and helped me build a even simpilar version for proof of concept. So cheers to a Full CRUD api, tomorrow I will deploy this api on render.com, time to learn about deployment.
+
+**Links to Work** [Repo 1](https://github.com/kcanamar/go-gin-basicCRUD),[Repo 2](https://github.com/kcanamar/go-crud-example)
 ## Day 27: Feburary 23, 2023
 
 **Today's Progress**: Go API build part Bug
