@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 29: Feburary 25, 2023
+
+**Today's Progress**: CRUD API Deployment
+
+**Thoughts**: So today I wanted to deploy my Go API so off to render.com, this was a journey where I needed to rework a few things from my build inorder for render to accept my build. Namely setup my environment variables, handling the logic surrounding the variables in the code base. After several hours of reading documentation and working through errors, I was finally able to deploy the api!
+
+**Links to Work** [Repo](https://github.com/kcanamar/go-crud-example), [depolyed](https://go-gin-api.onrender.com/posts)
 ## Day 28: Feburary 24, 2023
 
 **Today's Progress**: Go/Gin localAPI, Go Gin GORM bit.io full CRUD API
