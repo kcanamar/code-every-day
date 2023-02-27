@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 30: Feburary 26, 2023
+
+**Today's Progress**: Leetcode
+
+**Thoughts**: Just solved a problem today, hard as all can be, feel like I should go back to doing DSA's more everyday.
+
+**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/max-earnings-from-taxi.js)
 ## Day 29: Feburary 25, 2023
 
 **Today's Progress**: CRUD API Deployment
