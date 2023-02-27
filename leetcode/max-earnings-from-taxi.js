@@ -15,3 +15,25 @@ Note: You may drop off a passenger and pick up a different passenger at the same
 */
 // Solution
 //////////////////////
+var maxTaxiEarnings = function(n, rides) {
+    // Create array for optimal path
+    const rideStart = Array.from({length: n}, () => [])
+    // iterate over the inital rides array
+    rides.forEach((ride)=> {
+        let start = ride[0]
+        let end = ride[1]
+        let tip = ride[2]
+        rideStart[start].push([end, end - start + tip])
+    })
+
+    const dropped = Array(n+1).fill(0)
+
+    for ( let i = n-1; i >= 1; --i) {
+        for ( let [end, earning] of rideStart[i] ){
+            dropped[i] = Math.max(dropped[i], dropped[end] + earning)
+        }
+        dropped[i] = Math.max(dropped[i], dropped[i + 1])
+    }
+
+    return dropped[1]
+};
