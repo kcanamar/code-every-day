@@ -13,3 +13,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 */
 // Solution
 //////////////////////
+var checkTree = function(root) {
+    // return the boolean value of the comparison
+    return root.left.val + root.right.val === root.val
+};

@@ -16,3 +16,11 @@ Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
 */
 // Solution
 //////////////////////
+var runningSum = function(nums) {
+    let l = nums.length
+    // iterate over nums array
+    for (let i = 1; i < l; i++) {
+        nums[i] = nums[i - 1] + nums[i] 
+    }
+    return nums
+};
