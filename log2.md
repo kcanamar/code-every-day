@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 31: Feburary 27, 2023
+
+**Today's Progress**: Leetcode
+
+**Thoughts**: Needed to take it easy never fun being under the weather, so decided to do some light codeing problems on leetcode.
+
+**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/invert-binary-tree.js),[problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/root-equals.js),[problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/running-sum.js),
 ## Day 30: Feburary 26, 2023
 
 **Today's Progress**: Leetcode
