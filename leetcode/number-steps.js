@@ -20,3 +20,20 @@ Step 6) 1 is odd; subtract 1 and obtain 0.
 */
 // Solution
 //////////////////
+/**
+ * @param {number} num
+ * @return {number}
+ */
+var numberOfSteps = function(num) {
+    let steps = 0;
+    // iterate while num is positive
+    while (num > 0) {
+        // if num is even divide by 2 else subtract 1
+        // modulo operator returns 0 when even, which evaluates to false
+        // modulo operator returns 1 when odd, which evaluates to true
+        num % 2 ? num -= 1 : num /= 2
+        // increment steps
+        steps += 1
+    }
+    return steps
+};
