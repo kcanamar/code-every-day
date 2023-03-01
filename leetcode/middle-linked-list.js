@@ -13,3 +13,30 @@ Explanation: The middle node of the list is node 3.
 
 // Solution
 ///////////////////
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ */
+var middleNode = function(head) {
+    // two pointers
+    let fast = head
+    let slow = head
+
+    // iterate so long fast !== null and fast.next !== null
+    while(fast && fast.next) {
+        // move slow forward one space
+        slow = slow.next
+        // move fast forward two spaces
+        fast = fast.next.next
+    }
+
+    // return the slow pointer
+    return slow
+};
