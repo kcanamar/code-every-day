@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 32: Feburary 28, 2023
+
+**Today's Progress**: Leetcode
+
+**Thoughts**: Still have a fever, so decided to do some light codeing problems on leetcode.
+
+**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/randsome-note.js),[problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/middle-linked-list.js),[problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/number-steps.js),
 ## Day 31: Feburary 27, 2023
 
 **Today's Progress**: Leetcode
