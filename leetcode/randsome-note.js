@@ -23,3 +23,25 @@ Output: true
 */
 // Solution
 ///////////////////
+/**
+ * @param {string} ransomNote
+ * @param {string} magazine
+ * @return {boolean}
+ */
+var canConstruct = function(ransomNote, magazine) {
+    const noteArr = ransomNote.split('');
+    const magArr = magazine.split('');
+
+    const result = noteArr.every((letter) => {
+        // check if letter is present in the magazine array
+        const letterIdx = magArr.indexOf(letter); 
+        // coditional
+        if (letterIdx > -1) {
+            // remove the word from the magazine array
+            magArr.splice(letterIdx, 1)
+            return true
+        }
+    })
+
+    return result
+};
