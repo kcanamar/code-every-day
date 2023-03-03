@@ -1,12 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 33: March 2, 2023
+
+**Today's Progress**: Updates to portfolio
+
+**Thoughts**: Cleaned up some things and relocated my information locally.
+
+**Links to Work** [Repo](https://github.com/kcanamar/kcanamar-portfolio/)
 ## Day 33: March 1, 2023
 
 **Today's Progress**: Leetcode
 
 **Thoughts**: Being sick sucks, had to get some coding in today, so more review of DSA along with a leetcode problem.
 
-**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/richest-customer.js),
+**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/richest-customer.js)
 ## Day 32: Feburary 28, 2023
 
 **Today's Progress**: Leetcode
