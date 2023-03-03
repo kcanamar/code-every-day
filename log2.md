@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 34: March 3, 2023
+
+**Today's Progress**: Prisma
+
+**Thoughts**: Created a template that I can use as reference for working with prisma.io and bit.io (postgresql). 
+
+**Links to Work** [Repo](https://github.com/kcanamar/express-prisma-bit.io)
 ## Day 33: March 2, 2023
 
 **Today's Progress**: Updates to portfolio
