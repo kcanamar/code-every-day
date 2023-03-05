@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 35: March 4, 2023
+
+**Today's Progress**: Leetcode
+
+**Thoughts**: Got a lot of time in today reading over documentation to start build my blog, no building yet kids come first. Was able to comlplete a easy leetcode problem.
+
+**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/palindrome-num.js)
 ## Day 34: March 3, 2023
 
 **Today's Progress**: Prisma
