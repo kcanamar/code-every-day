@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+## Day 36: March 5, 2023
+
+**Today's Progress**: Leetcode
+
+**Thoughts**: Decided today to not build but rather brush up on some DSA challenges. Even though these are slated as Easy problems on leetcode, I did not find them to be that easy. Tomorrow will be a new day, hoping to get my mind right and start building my blog site.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/merge-two-sorted-lists.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/valid-parenths.js),[problem 3](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/kth-missing-int.js),[problem 4](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/longest-prefix.js),[problem 5](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/roman-int.js)
 ## Day 35: March 4, 2023
 
 **Today's Progress**: Leetcode
