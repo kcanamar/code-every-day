@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 37: March 6, 2023
 
+**Today's Progress**: Nuxt Blog
+
+**Thoughts**: Let's go, first day working on my blog built with [Nuxt Content](https://content.nuxtjs.org/get-started/). Really been enjoying the documentation as I had to dig into the special Content Components. Scafolded this project with Tailwind, I really enjoy how the styling of the markdown is rendered. More to come tomorrow along with my first post! Stay tuned.
+
+**Links to Work** [Repo](https://github.com/kcanamar/funkie-coding-blog)
 ## Day 36: March 5, 2023
 
 **Today's Progress**: Leetcode
