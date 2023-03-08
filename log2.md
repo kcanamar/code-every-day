@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 38: March 7, 2023
+
+**Today's Progress**: Nuxt Blog
+
+**Thoughts**: Alright, completed the skeleton of my new blog site created with Nuxt.js Content. Check out the deployed site [here](https://kcanblog.vercel.app/), looking to finish up my first post, a walkthrough on creating a full CRUD API with Go, Gin, GORM, and bit.io plus the bonus of deploying to render.com.
+
+**Links to Work** [Repo](https://github.com/kcanamar/funkie-coding-blog)
 ## Day 37: March 6, 2023
 
 **Today's Progress**: Nuxt Blog
