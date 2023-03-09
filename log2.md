@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 39: March 8, 2023
+
+**Today's Progress**: First Blog Post
+
+**Thoughts**: Thats right today I spent my time refining my first blog post, I still have some more edits to iron out will finish up with those tomorrow, but it is up and ready to view. Check out my live site at https://kcanblog.vercel.app/
+
+**Links to Work** [Repo](https://github.com/kcanamar/funkie-coding-blog)
 ## Day 38: March 7, 2023
 
 **Today's Progress**: Nuxt Blog
