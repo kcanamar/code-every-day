@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 40: March 9, 2023
+
+**Today's Progress**: Leetcode
+
+**Thoughts**: Busy day, ended up packing in a lot of content on Binary Trees today, and solved the hardest leetcode problem I have faced thus far. Binary trees are quickly becoming my least favorite data structure, but I know tht this is a phase and I will soon be able to conquer them with enough practice. Tomorrow I will finish up my edits to my blog post, and then start working on build an API with Gin and connecting to MongoDB.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/leetcoe/delete-node-bst.js)
 ## Day 39: March 8, 2023
 
 **Today's Progress**: First Blog Post
