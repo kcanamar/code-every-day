@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 41: March 10, 2023
+
+**Today's Progress**: Handling Files, Taskrunning
+
+**Thoughts**: Completed my Scrum Master Certification today, passed the test, then decided to learn about taskrunning techniques with bash, node, and Makefile. After that decided to work through how to upload nad download files using vanilla Javascript.
+
+**Links to Work** [Repo 1](https://github.com/kcanamar/taskrunning-examples), [Repo 2](https://github.com/kcanamar/handling-files),
+
 ## Day 40: March 9, 2023
 
 **Today's Progress**: Leetcode
