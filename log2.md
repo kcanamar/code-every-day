@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 42: March 11, 2023
+
+**Today's Progress**: First Blog Post
+
+**Thoughts**: It is time, I have finally completed editing my coding tutorial. That was a lot of work and happy to have to displaying how I want it on my blog. Tomorrow we continue my advnture in building the same project all over but this time connecting to MongoDB.
+
+**Links to Work** [Live Article](https://kcanblog.vercel.app/blog/gin), [Repo View](https://github.com/kcanamar/funkie-coding-blog/blob/main/content/blog/gin.md)
 ## Day 41: March 10, 2023
 
 **Today's Progress**: Handling Files, Taskrunning
