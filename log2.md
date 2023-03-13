@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 43: March 12, 2023
+
+**Today's Progress**: Reading Files
+
+**Thoughts**: So I was faced like many today with the unforgettable joy of DAYLIGHT savings time, ugh. So instead of jumping into build another api I decided to learn how to read files using express.js and npm package multer.
+
+**Links to Work** [repo](https://github.com/kcanamar/express-multer)
 ## Day 42: March 11, 2023
 
 **Today's Progress**: First Blog Post
