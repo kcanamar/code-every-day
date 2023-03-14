@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 44: March 13, 2023
+
+**Today's Progress**: Golang, Gin, MongoDB
+
+**Thoughts**: Today is the day where I start to build and api in golong using Gin and connected to MongoDB Atlas, hoping this would have been a quick build but ran into some unexpected snags along the way. Ton of reading documentation for this one so far so good, was able to successfully connect to mongo today! Looking forward to preforming some CRUD on a model tomorrow. 
+
+**Links to Work** [repo](https://github.com/kcanamar/golang-mongo)
+
 ## Day 43: March 12, 2023
 
 **Today's Progress**: Reading Files
