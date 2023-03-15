@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 45: March 14, 2023
+
+**Today's Progress**: Golang, Gin, MongoDB
+
+**Thoughts**: Okay so we can Create and Read today, have been working on update however not gaining any ground due to some odd behaviors. Going to deep dive this tomorrow. Wish me luck.
+
+**Links to Work** [repo](https://github.com/kcanamar/golang-mongo)
 ## Day 44: March 13, 2023
 
 **Today's Progress**: Golang, Gin, MongoDB
