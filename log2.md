@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 46: March 15, 2023
+
+**Today's Progress**: Ionic
+
+**Thoughts**: Today, I needed to take a break from writing code in go, I was runningn into some issues with my update route with mongo and instead of getting bent out of shape I decided to pivot and spend my time learning something new, Ionic (React). I have been wanting to branch out into mobile development and everything I have been reading has been pointing to either Expo or Ionic, so I made the leap and decided to go with Ionic. Only a few step into the tutorial so far and coming to terms with not only learning a new way to build an application using React, but also having to learn Typescript at the same time. Going to finish this demo tomorrow and then, with fresh eyes go back and try to debug my Go code. 
+
+**Links to Work** [repo](https://github.com/kcanamar/ionic-tutorial)
+
 ## Day 45: March 14, 2023
 
 **Today's Progress**: Golang, Gin, MongoDB
