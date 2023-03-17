@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 47: March 16, 2023
+
+**Today's Progress**: Ionic
+
+**Thoughts**: Today, was a doozy! I had no supporting software for native development when trying to test my ionic application, so most of my day was spent battling through erros. I did succeed and my application can be tested, and viewed on my iphone. Tomorrow I plan on completeing the tutorial.
+
+**Links to Work** [repo](https://github.com/kcanamar/ionic-tutorial)
 ## Day 46: March 15, 2023
 
 **Today's Progress**: Ionic
