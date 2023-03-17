@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 48: March 17, 2023
+
+**Today's Progress**: Ionic
+
+**Thoughts**: Finished the tutorial, however not really sure how to view my deployed application on the web. All of the documentation I have been reading ahs been all over the place. I am going to keep reading on this this evening but if I can't find out how, I think it will be on to Expo to attempt a different native development approach.
+
+**Links to Work** [repo](https://github.com/kcanamar/ionic-tutorial)
 ## Day 47: March 16, 2023
 
 **Today's Progress**: Ionic
