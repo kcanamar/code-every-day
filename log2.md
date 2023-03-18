@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 49: March 18, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Today decided to take a light day, and solve a few coding problems on codewars. Had fun getting to mix in some regex in solving the string problem. Had a lot of fun explaining to my kids what pig latin is and walked them through the code to do it.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/strip-comments.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/simple-pig-latin.js)
 ## Day 48: March 17, 2023
 
 **Today's Progress**: Ionic
