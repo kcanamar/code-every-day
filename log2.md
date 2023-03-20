@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
+## Day 50: March 19, 2023
 
+**Today's Progress**: Codewars
+
+**Thoughts**: Another light day, solved a few coding problems on codewars. Whole family is going down to bug so I am dialing back alittle on coding to help them all out. Still got some work in today.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/permutation.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/break-camel.js)
 ## Day 49: March 18, 2023
 
 **Today's Progress**: Codewars
