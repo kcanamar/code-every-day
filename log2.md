@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+
+## Day 51: March 20, 2023
+
+**Today's Progress**: Expo
+
+**Thoughts**: Began Learning Expo this evening, had to wait for the kidos to go to bed so I can get some work in. Decided to pivot away from Ionic for my React-Native development, to many errors and not the best documentation in my opinion. So far so good with Expo, head and shoulders above Ionic, but again I am biased. Looking to wrap up there intro tutorial tomorrow.
+
+**Links to Work** [Repo](https://github.com/kcanamar/expo-first-app)
 ## Day 50: March 19, 2023
 
 **Today's Progress**: Codewars
