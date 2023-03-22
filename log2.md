@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 52: March 21, 2023
+
+**Today's Progress**: Expo
+
+**Thoughts**: Almost finished with the Expo tutorial, looking to wrap up tomorrow with the tutorial.
+
+**Links to Work** [Repo](https://github.com/kcanamar/expo-first-app)
 ## Day 51: March 20, 2023
 
 **Today's Progress**: Expo
