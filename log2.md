@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 53: March 22, 2023
+
+**Today's Progress**: Expo
+
+**Thoughts**: Completed the intro tutorial to Expo. Started reading on documentation on Expo connecting with SupaBase, excited to start that build example tomorrow!
+
+**Links to Work** [Repo](https://github.com/kcanamar/expo-first-app)
 ## Day 52: March 21, 2023
 
 **Today's Progress**: Expo
