@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 54: March 23, 2023
+
+**Today's Progress**: Expo & SupaBase
+
+**Thoughts**: Started the SupaBase documention for connecting with Expo. Created a user in the database and can update information. looking forward to taking this build further.
+
+**Links to Work** [Repo](https://github.com/kcanamar/expo-supabase-example)
+
 ## Day 53: March 22, 2023
 
 **Today's Progress**: Expo
