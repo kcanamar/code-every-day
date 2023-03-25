@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
+## Day 56: March 25, 2023
 
+**Today's Progress**: MORE Vanilla JavaScript & SupaBase
+
+**Thoughts**: So started following Supaship and wow bring me the content! Was able to understand and properly setup a username/password with no email configuration for supabase. Notabley I see so place that I can optimize and customize how I can work with supabase. Needless to say I am having a light day today, my lady's birthday, Happy Birthday Jaime!! 
+
+**Links to Work** [Repo](https://github.com/kcanamar/supabase-vanilla)
 ## Day 55: March 24, 2023
 
 **Today's Progress**: Vanilla JavaScript & SupaBase
