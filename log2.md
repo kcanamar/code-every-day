@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 55: March 24, 2023
+
+**Today's Progress**: Vanilla JavaScript & SupaBase
+
+**Thoughts**: Ran into a couple of roadblocks when trying to implement SupaBase with Expo, so decided to take two steps back to gain some foundational knowledge with Supabase. Followed an excellent tutorial provided by Supaship, covered the majority of the getting started section of Supabase. Now that I am armed with new knowledge I think I will revisit Expo in the coming days.
+
+**Links to Work** [Repo](https://github.com/kcanamar/supabase-vanilla)
 ## Day 54: March 23, 2023
 
 **Today's Progress**: Expo & SupaBase
