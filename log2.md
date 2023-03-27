@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+
+## Day 57: March 26, 2023
+
+**Today's Progress**: Codewars Problems
+
+**Thoughts**: Made today light, learned all about binary conversions in javascript, an area I had yet to explore. Solved a couple codewars problems tomorrow going to be looking into creating a supabase react.js project as I begin learning how to incorperate supabase into my current technology stack.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/testing1-2-3.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/binary-addition.js)
 ## Day 56: March 25, 2023
 
 **Today's Progress**: MORE Vanilla JavaScript & SupaBase
