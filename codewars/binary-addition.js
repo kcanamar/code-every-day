@@ -13,3 +13,6 @@ Examples:(Input1, Input2 --> Output (explanation)))
 */
 // Solution
 /////////////////////
+function addBinary(a, b) {
+    return (a + b).toString(2)
+}
