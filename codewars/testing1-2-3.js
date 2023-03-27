@@ -14,3 +14,10 @@ Examples: (Input --> Output)
 */
 // Solution
 //////////////////////////
+function number(array){
+    // map over the array
+    return array.map((line, idx) => {
+      return `${idx + 1}: ${line}`
+    })
+  
+  }
