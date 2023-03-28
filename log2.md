@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 58: March 27, 2023
+
+**Today's Progress**: Yelp & React.js
+
+**Thoughts**: So today had a crazy idea, I wanted to show my kids what you can do with coding and problem solving. I decided to code for them a basic react app connected to Yelp fusion API. This was a lot more than I had anticipated, I was not aware that yelp does not like frontend devs, all of the CORS issues today. But I was ble to get around it and to deploy a working prototype of fetching data from Queens,NY and also selecting a single restaurant from the selection. I feel really proud of what I was able to acomplish with extremely limited documentaion, and false hope from the devs at Yelp. If you want to view the live site you may have to turn on the proxy server by visiting this [site](https://cors-anywhere.herokuapp.com/corsdemo) first
+
+**Links to Work** [Repo](https://github.com/kcanamar/yelp-react-example), [Live Site](https://main--extraordinary-panda-808d9f.netlify.app/)
 ## Day 57: March 26, 2023
 
 **Today's Progress**: Codewars Problems
