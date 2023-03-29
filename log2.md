@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 59: March 28, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Lots of moving pieces today with the family, had to balance sick kids and my current work. Able to complete some algorithm challenges on codewars, and start a DSA course in python today, more to come on that in the coming weeks. Looking to get back to working with Supabase tomorrow, going to tackle setting up supabase and a react.js crud todo app stay tuned.
+
+**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/codewars/bit-counting.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/autocomplete.js)
 ## Day 58: March 27, 2023
 
 **Today's Progress**: Yelp & React.js
