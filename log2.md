@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 60: March 29, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: I hate being sick, and having sick kids. No excusses I am still commited to coding, I had a lofty day helping debugging with the students in my cohort. Was able to solve and algorithm before needing to sleep
+
+**Links to Work** [problem](https://github.com/kcanamar/code-every-day/blob/main/codewars/flatten-array.js)
 ## Day 59: March 28, 2023
 
 **Today's Progress**: Codewars
