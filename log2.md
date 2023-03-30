@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 61: March 30, 2023
+
+**Today's Progress**: React-Native/Expo
+
+**Thoughts**: I have been eyeing a course on react native fro Javascript Mastery, so why not start today. Spent a lot of time reading through the code to understand what I will be doing with it as this course provides a lot of boiler plate. I was aslo able to continue working on my DSA course provided by Jovian in python. Blending languages is tricky but with the right mindset I find it as enjoyable as speaking english with my kids and spanish with my wife.
+
+**Links to Work** [repo](https://github.com/kcanamar/expo-tutorial)
 ## Day 60: March 29, 2023
 
 **Today's Progress**: Codewars
