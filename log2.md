@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+
+## Day 63: April 1, 2023
+
+**Today's Progress**: React-Native/Expo
+
+**Thoughts**: Got a little further today in the tutorial, looking forward to wrapping this one up tomorrow. 
+
+**Links to Work** [repo](https://github.com/kcanamar/expo-tutorial)
 ## Day 62: March 31, 2023
 
 **Today's Progress**: React-Native/Expo
