@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 64: April 2, 2023
+
+**Today's Progress**: React-Native/Expo
+
+**Thoughts**: Completed the tutorial with Expo/React-Native. Learned so much, divs are views. So much good stuff coming out of this one, being able to use a function to pass arguments to css classes was a big upgrade coming from this one. Also how to construct FlatLists and the various header components.
+
+**Links to Work** [repo](https://github.com/kcanamar/expo-tutorial)
 ## Day 63: April 1, 2023
 
 **Today's Progress**: React-Native/Expo
