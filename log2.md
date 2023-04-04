@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 65: April 3, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Short day, taking time wil my son as it is his spring break. A few codewars problems and a lot of reading on OLTP, OLAP, Data Wharehouses, as well as Data Lakes. Been diving deep into how data is stored and used to leveraged by Data scientists/analytists, so much comprehension behind extract tranfer load (ETL & ELT). All I can say is that I am falling in love with data!
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/two-sum.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/walk.js),[problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/will-you-make-it.js)
 ## Day 64: April 2, 2023
 
 **Today's Progress**: React-Native/Expo
