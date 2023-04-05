@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 66: April 4, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Short day, had a fun filled day of Pokemon hunting with my kids today, short time coding along with more learning on Data Sprawl and Data Drift. Truly fascinating when you start to learn how many copies of out data really exist, and how the use of a Data Lakehouse or cloud storage such as AWS, Azure and Google cloud are impacting the space of data stroage. Simiarly the Apache Arrow project creating many tools to inovate and improve data stroage on the open source level. So much learning, working on a blog post covering all of this learning.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/reversed-sequence.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/if-no-sleep.js),[problem 3](https://github.com/kcanamar/code-every-day/blob/main/codewars/summation.js),[problem 4](https://github.com/kcanamar/code-every-day/blob/main/codewars/remove-the-min.js)
 ## Day 65: April 3, 2023
 
 **Today's Progress**: Codewars
