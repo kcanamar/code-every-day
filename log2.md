@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 67: April 5, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Short day of learning and a codewar to problem to complete the day.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/mumbling.js)
 ## Day 66: April 4, 2023
 
 **Today's Progress**: Codewars
