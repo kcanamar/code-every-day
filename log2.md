@@ -1,10 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 68: April 6, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Began my journey today learning Docker, in an effort to start learning Jenkins. I have been seeing a lot of job opportunities that I would like to pursue that are calling for these technologies and I am going to go the self taught way and learn them myself. Wrapped up the day with a few Codewars problems
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/fake-binary.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/non-consecutive.js),
 ## Day 67: April 5, 2023
 
 **Today's Progress**: Codewars
 
-**Thoughts**: Short day of learning and a codewar to problem to complete the day.
+**Thoughts**: Short day of learning and a codewars problem to complete the day.
 
 **Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/mumbling.js)
 ## Day 66: April 4, 2023
