@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 69: April 7, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Busy day was able to get some more learning in on how to best use docker, tomorrow looking to build my first restapi in flask from within a container. Wrapped up the day with a codewars problem
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/funcs.js)
 ## Day 68: April 6, 2023
 
 **Today's Progress**: Codewars
