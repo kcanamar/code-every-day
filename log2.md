@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
+## Day 70: April 8, 2023
 
+**Today's Progress**: Codewars
+
+**Thoughts**: Busy day with the kids, had to take a half day to enjoy the end of spring break. Wrapped up the day with a codewars problem
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/decreasing-order.js)
 ## Day 69: April 7, 2023
 
 **Today's Progress**: Codewars
