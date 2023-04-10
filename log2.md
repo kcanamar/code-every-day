@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+
+## Day 71: April 9, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Busy Easter day with the kids. Wrapped up the day with a codewars problem. Happy Easter!
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/find-the-stray.js)
 ## Day 70: April 8, 2023
 
 **Today's Progress**: Codewars
