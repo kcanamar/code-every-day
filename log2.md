@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 72: April 10, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: The weather strikes again, and I am plagued by another sinus infection luckly I will be seeing my doctor this week. Painful tring to concentrate today. However I was able to overcome the discomfort and work out a problem that was most challenging, having to think through a Stack, and how the stack can be manipulated. One day at a time.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/subarray-sum.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/directions-reduction.js)
 ## Day 71: April 9, 2023
 
 **Today's Progress**: Codewars
