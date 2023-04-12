@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 73: April 11, 2023
+
+**Today's Progress**: Node.js and Docker
+
+**Thoughts**: Dove into the docker Node walkthrough provided by the Learning Center in the Docker hub. About half way through, need to call it a night and get some rest. Bea back at it to finish tomorrow.
+
+**Links to Work** [Repo](https://github.com/kcanamar/node-docker)
 ## Day 72: April 10, 2023
 
 **Today's Progress**: Codewars
