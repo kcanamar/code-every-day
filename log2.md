@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 74: April 12, 2023
+
+**Today's Progress**: Node.js and Docker
+
+**Thoughts**: One word, WOW! I am blown away with how I was able to learn how to create a CI/CD pipline using github actions and how to leverage that with a docker image. I am so insipred to learn how to create my own piplines and to build even more professional applications.
+
+**Links to Work** [Repo](https://github.com/kcanamar/node-docker)
 ## Day 73: April 11, 2023
 
 **Today's Progress**: Node.js and Docker
