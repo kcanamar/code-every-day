@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 75: April 13, 2023
+
+**Today's Progress**: Jest
+
+**Thoughts**: Today I wrote my first Unit Test in Jest. The boogieman has been confronted and I am so ready to start diving into my code and learning how to use this testing suit across alll of my JavaScript projects, both past and future. I find it to be a worth while undertaking to try and revisit my previous code bases and to try and implement a test suit on existing code, as well as being able to develop with a TDD approach. So much good stuff today, and 6 months till my wedding day! 
+
+**Links to Work** [Repo](https://github.com/kcanamar/jest-fundementals-practice)
 ## Day 74: April 12, 2023
 
 **Today's Progress**: Node.js and Docker
