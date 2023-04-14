@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 76: April 14, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Traveling today to visit my grandfather over the weekend, Got some coding in while waiting for my flight. A few codewars problems and some design work on a side project. Tonight I may play around with jest more and see what sort of tests I can create. 
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/is-triangle.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/rock-paper-scissors.js)
+
 ## Day 75: April 13, 2023
 
 **Today's Progress**: Jest
@@ -21,6 +29,7 @@
 **Thoughts**: Dove into the docker Node walkthrough provided by the Learning Center in the Docker hub. About half way through, need to call it a night and get some rest. Bea back at it to finish tomorrow.
 
 **Links to Work** [Repo](https://github.com/kcanamar/node-docker)
+
 ## Day 72: April 10, 2023
 
 **Today's Progress**: Codewars
