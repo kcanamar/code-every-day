@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 79: April 17, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Last day of holiday with my abuelito so another light day of coding, solved a codewars problem and did some more studying on Jest.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/disemvowel.js)
 ## Day 78: April 16, 2023
 
 **Today's Progress**: Codewars
