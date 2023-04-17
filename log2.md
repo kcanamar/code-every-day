@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 78: April 16, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: On holiday with my abuelito so light day of coding, solved a codewars problem and did some studying on Jest.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/bmi.js)
+
 ## Day 77: April 15, 2023
 
 **Today's Progress**: Codewars
