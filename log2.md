@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 80: April 18, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Codewars problems and catching a flight back to Seattle, busy day but glad to get some coding and designing in on a side project.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/petals.js),[problem 2](https://github.com/kcanamar/code-every-day/blob/main/codewars/switch-it-up.js)
 ## Day 79: April 17, 2023
 
 **Today's Progress**: Codewars
