@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 81: April 19, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Settling in back at home, got a lot of work to catch up on after coming back from vacation. Able to get a little coding in though with a fun challenge coming from codewars.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/who-likes-this.js)
 ## Day 80: April 18, 2023
 
 **Today's Progress**: Codewars
