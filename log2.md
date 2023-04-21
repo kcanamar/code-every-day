@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 82: April 20, 2023
+
+**Today's Progress**: Codewars
+
+**Thoughts**: Being a parent and coder is for sure a challenge at times. I was able to do some more reading and studying on how to get started with Jenkins, and wrapped up with a codewars problem.
+
+**Links to Work** [problem 1](https://github.com/kcanamar/code-every-day/blob/main/codewars/needle.js)
 ## Day 81: April 19, 2023
 
 **Today's Progress**: Codewars
